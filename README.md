@@ -1,7 +1,6 @@
 # Heart Disease Classification
 
 A machine learning project for predicting heart disease based on patient health data.
-The goal was to practice the end-to-end ML workflow: data exploration, preprocessing, training, evaluation, and visualization.
 
 ## Dataset
 The dataset comes from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/heart+Disease).
