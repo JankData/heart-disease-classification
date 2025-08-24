@@ -3,7 +3,7 @@
 A machine learning project for predicting heart disease based on patient health data.
 
 ## Dataset
-The dataset comes from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/heart+Disease).
+The dataset comes from [here](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset).
 It contains patient medical records (age, sex, blood pressure, cholesterol, max heart rate, etc.) and a target variable indicating whether heart disease was present.
 
 ## Methods
